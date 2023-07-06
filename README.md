@@ -39,7 +39,7 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://media.istockphoto
   
   ### Things I am learning:
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
+  <span><img src="https://image.pngaaa.com/384/3822384-middle.png" width="30px"></span>&nbsp;
 
 
 
