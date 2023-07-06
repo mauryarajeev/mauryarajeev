@@ -7,7 +7,7 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://media1.giphy.com/
 [![Youtube Badge](https://img.shields.io/badge/-@rajeevmaurya7854?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKuGT7W2E3-JrIFpX9a8fiQ)
 
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh0N280ZHNqajN5MXJ1Y3Q3cWZ2YmU4NWVpYThybzFvY2d2YnBrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🧐 About
 - 🔭 I’m currently working in Calligo Technologies. __[mauryarajeev](https://github.com/mauryarajeev)__ is my github work account
