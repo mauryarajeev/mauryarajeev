@@ -43,37 +43,6 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://user-images.githu
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
 
-</details>
 
-## 🏆 My GitHub Stats
-<details>
-  <summary>More Info</summary>
-  <br/>
-  
-  [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</details>
 
-## 📝 Medium Blogs
-<!-- MEDIUM-STORY-LIST:START -->
-- [9 Best Developer Communities On Discord](https://levelup.gitconnected.com/9-best-developer-communities-on-discord-c673b8ab3a1c?source=rss-62889aba2ad1------2)
-- [How I Got An Internship At Zomato Through LinkedIn](https://levelup.gitconnected.com/how-i-got-an-internship-at-zomato-through-linkedin-be486cf23628?source=rss-62889aba2ad1------2)
-<!-- MEDIUM-STORY-LIST:END -->
-
-## ✒️ Hashnode Blogs
-<!-- HASHNODE_BLOG:START -->
-- [How I Got An Internship At Zomato Through LinkedIn](https://mayank0255.hashnode.dev/how-i-got-an-internship-at-zomato-through-linkedin-cl5flf3iz08hznunva6frd6ew)
-- [9 Best Developer Communities On Discord](https://mayank0255.hashnode.dev/9-best-developer-communities-on-discord-clc51kteh000408l5gi7ofv7s)
-<!-- HASHNODE_BLOG:END -->
-
-## ⚡ Recent Activity
-  
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Mayank0255/YelpCamp/pull/8) in [Mayank0255/YelpCamp](https://github.com/Mayank0255/YelpCamp)
-2. 🗣 Commented on [#61](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/issues/61) in [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend)
-3. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-4. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-5. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-  <!--END_SECTION:activity-->
