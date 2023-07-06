@@ -38,8 +38,8 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://media.istockphoto
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
   
   ### Things I am learning:
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
-  <span><img src="https://image.pngaaa.com/384/3822384-middle.png" width="30px"></span>&nbsp;
+  <span><img src="https://w7.pngwing.com/pngs/620/322/png-transparent-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle-logo.png" width="50px"></span>&nbsp;
+  <span><img src="https://image.pngaaa.com/384/3822384-middle.png" width="50px"></span>&nbsp;
 
 
 
