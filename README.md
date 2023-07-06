@@ -10,10 +10,10 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://user-images.githu
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## 🧐 About
-- 🔭 I’m currently working in Zomato. __[@mayank-zoman](https://github.com/mauryarajeev)__ is my github work account
+- 🔭 I’m currently working in Calligo Technologies. __[mauryarajeev](https://github.com/mauryarajeev)__ is my github work account
 - 🌱 I’m planning to learn about Distributed Systems and AWS
 - 💬 Ping me about Node.js, react-native, React.js, and MongoDB.
-- 📙 Check out my [resume](https://drive.google.com/file/d/166e2xFXKtiIDEjSq9gUgKUxuM4XDHEMN/view?usp=sharing).
+- 📙 Check out my [resume](https://docs.google.com/document/d/1m8arJ1OCqabxOqUCkotDexXrIO_Sx96a/edit?usp=sharing&ouid=115471663727255465323&rtpof=true&sd=true).
 - 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/mauryarajeev/) or Email (rajeevmaurya511@gmail.com)
 
 ## 🛠️ Tools & Technologies
@@ -23,7 +23,7 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://user-images.githu
   ### Things I code with: 
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react-native/react-native-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
@@ -40,7 +40,6 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://user-images.githu
   <span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30px"></span>&nbsp;
 
   ### Things I am learning:
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
 
