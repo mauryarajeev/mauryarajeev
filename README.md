@@ -12,10 +12,9 @@ I'm Rajeev Maurya, a Software Developer from <img src="https://user-images.githu
 ## 🧐 About
 - 🔭 I’m currently working in Zomato. __[@mayank-zoman](https://github.com/mauryarajeev)__ is my github work account
 - 🌱 I’m planning to learn about Distributed Systems and AWS
-- 📝 I write articles on my [blog](https://medium.com/@mayank0255).
-- 💬 Ping me about Node.js, Golang, React.js, and Python.
+- 💬 Ping me about Node.js, react-native, React.js, and MongoDB.
 - 📙 Check out my [resume](https://drive.google.com/file/d/166e2xFXKtiIDEjSq9gUgKUxuM4XDHEMN/view?usp=sharing).
-- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
+- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/mauryarajeev/) or Email (rajeevmaurya511@gmail.com)
 
 ## 🛠️ Tools & Technologies
 <details>
