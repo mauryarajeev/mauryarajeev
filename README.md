@@ -2,11 +2,10 @@
 I'm Rajeev Maurya, a Software Developer from <img src="https://user-images.githubusercontent.com/43780137/221352179-29b7efa2-6548-4101-99ec-eb914cbf56e6.png" width="14px"> __Bengaluru, India__, currently working in __Calligo Technologies__.
 
 [![Twitter Badge](https://img.shields.io/badge/-@Rajeevietluckn1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Rajeevietluckn1?t=NCELkptJD24Cf8lawNIv5Q&s=03)
-[![Discord Badge](https://img.shields.io/badge/mayank0255-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discords.com/bio/p/mayank0255)
 [![Linkedin Badge](https://img.shields.io/badge/-mauryarajeev?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryarajeev/)
-[![Mail Badge](https://img.shields.io/badge/-rajeevmaurya511@gmail.com?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](rajeevmaurya511@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-rajeevmaurya511?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](rajeevmaurya511@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-@rajeevmaurya7854?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKuGT7W2E3-JrIFpX9a8fiQ)
-[![Medium Badge](https://img.shields.io/badge/@mayank0255-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mayank0255)
+
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
