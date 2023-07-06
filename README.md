@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Rajeev
-I'm Rajeev Maurya, a Software Developer from <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh0N280ZHNqajN5MXJ1Y3Q3cWZ2YmU4NWVpYThybzFvY2d2YnBrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="14px"> __Bengaluru, India__, currently working in __Calligo Technologies__.
+I'm Rajeev Maurya, a Software Developer from <img src="https://www.allwavingflags.com/2018/06/flag-of-india.html" width="14px"> __Bengaluru, India__, currently working in __Calligo Technologies__.
 
 [![Twitter Badge](https://img.shields.io/badge/-@Rajeevietluckn1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Rajeevietluckn1?t=NCELkptJD24Cf8lawNIv5Q&s=03)
 [![Linkedin Badge](https://img.shields.io/badge/-mauryarajeev?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryarajeev/)
