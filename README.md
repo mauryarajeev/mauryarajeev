@@ -17,7 +17,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mauryarajeev&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
-![Years Badge](https://img.shields.io/badge/Experience-3%2B_Years-64ffda?style=for-the-badge)
+![Years Badge](https://img.shields.io/badge/Experience-4%2B_Years-64ffda?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Open_to_Work-00e676?style=for-the-badge)
 ![AI Badge](https://img.shields.io/badge/AI_Era-Onboarding_🤖-FF6B6B?style=for-the-badge)
 
