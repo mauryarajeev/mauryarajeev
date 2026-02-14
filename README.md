@@ -1,236 +1,211 @@
 <div align="center">
 
-```
-██████╗  █████╗      ██╗███████╗███████╗██╗   ██╗
-██╔══██╗██╔══██╗     ██║██╔════╝██╔════╝██║   ██║
-██████╔╝███████║     ██║█████╗  █████╗  ██║   ██║
-██╔══██╗██╔══██║██   ██║██╔══╝  ██╔══╝  ╚██╗ ██╔╝
-██║  ██║██║  ██║╚█████╔╝███████╗███████╗ ╚████╔╝ 
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝  ╚═══╝  
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Engineer+%7C+3%2B+Years+Experience;React+%7C+React+Native+%7C+Node.js+%7C+Python;Building+Products+That+Scale+%F0%9F%9A%80;GetCompanion+%7C+ATS+%7C+ETL+Pipelines" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mauryarajeev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryarajeev/)
-[![Twitter](https://img.shields.io/badge/Twitter-@Rajeevietluckn1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rajeevietluckn1)
-[![Gmail](https://img.shields.io/badge/Gmail-rajeevmaurya511-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevmaurya511@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@rajeevmaurya7854-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKuGT7W2E3-JrIFpX9a8fiQ)
-[![Resume](https://img.shields.io/badge/Resume-View_CV-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1m8arJ1OCqabxOqUCkotDexXrIO_Sx96a/edit)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mauryarajeev&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a192f,100:0d1117&height=200&section=header&text=RAJEEV%20KUMAR%20MAURYA&fontSize=42&fontColor=00d9ff&fontAlignY=55&desc=Full-Stack%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Founding%20Dev&descSize=15&descAlignY=75&descColor=8892b0&animation=fadeIn" />
 
 </div>
 
----
+<div align="center">
 
-## 🧑‍💻 Who Am I?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=const+engineer+%3D+%22Founding+Full-Stack+Dev+%40+GetCompanion%22;specialization+%3D+%5B%22React%22%2C+%22React+Native%22%2C+%22Node.js%22%5D;mission+%3D+%22Building+products+that+matter%22;status+%3D+%22Open+to+collaborations+%F0%9F%9A%80%22)](https://git.io/typing-svg)
 
-```javascript
-const rajeev = {
-  name        : "Rajeev Kumar Maurya",
-  location    : "Gurgaon, India 🇮🇳",
-  role        : "Full-Stack Software Developer",
-  company     : "ISSC Pvt Ltd",
-  product     : "GetCompanion — Emotional Support Platform",
-  education   : "B.Tech Chemical Engineering, IET Lucknow (CGPA: 8.0)",
-  experience  : "3+ years across startups & product companies",
-  
-  currentWork : [
-    "Founding Engineer @ GetCompanion (Web + Android/iOS)",
-    "Building internal HR & ATS tooling with Django",
-    "ETL pipeline development for accounting data migration",
-  ],
-  
-  stack       : {
-    frontend  : ["React.js", "React Native", "Redux Toolkit", "TypeScript"],
-    backend   : ["Node.js", "Express.js", "Django", "Flask"],
-    database  : ["MongoDB", "SQL", "AWS S3"],
-    realtime  : ["Socket.IO", "WebRTC", "Agora SDK"],
-    tools     : ["Git", "GitHub", "VS Code", "Postman"],
-  },
-  
-  learning    : ["Distributed Systems", "AWS Cloud Architecture"],
-  
-  funFact     : "Chemical Engineer turned Full-Stack Dev 🧪 → 💻"
-};
-```
+</div>
 
----
-
-## 🏢 Professional Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 ISSC Pvt Ltd · Nov 2023 – Present
-**Software Developer, Full-Time · Gurgaon**
-
-- 🏗️ **Founding Engineer** for **GetCompanion** — built scalable web & Android/iOS apps end-to-end
-- 📋 Designed **Timesheet & Workforce Management System** (Django) for employee tracking & approvals
-- 🎯 Built a full-featured **Applicant Tracking System** with role-based access control
-- 🇦🇺 Delivered features for **Australian accounting software**, handling API integrations & compliance
-- 🔄 Implemented **Python ETL pipelines** for accounting data migration across systems
-
-</td>
-<td width="50%">
-
-### 🏨 Mytravaly · Sept 2023 – Nov 2024
-**Frontend Developer, Full-Time · Bengaluru**
-
-- 🖥️ Built comprehensive UI for **hotel & rental property management** with React.js + Redux
-- ⚡ Achieved **2× improvement** in UI smoothness with Redux Toolkit + CSS frameworks
-- 🔐 Integrated **auth APIs** (email, mobile) and payment gateways
-- 📈 Implemented **SEO strategies**, Microsoft Clarity & Sentry for monitoring
-- 🧪 Extensive functional, integration & unit testing
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Calligo Technologies · Sept 2022 – Aug 2023
-**Software Developer, Full-Time · Bengaluru**
-
-- 🧠 Built responsive websites for **AI & ML model UIs** using React + Redux
-- 🔗 Collaborated with backend teams for API & database integrations
-- 📦 Managed app state with **Redux Toolkit**; ensured cross-browser compatibility
-- 📝 Regular code reviews for maintainability & scalability
-
-</td>
-<td width="50%">
-
-### 🧪 Augenblick Consulting · June 2022 – Aug 2022
-**Full-Stack Developer Intern · Mumbai**
-
-- 🔬 Built an app for **raw product laboratory analysis**, collaborating with lab scientists
-- ⚛️ Engineered React.js UI to gather product input from users
-- 🗄️ Backend with **Node.js + Express**, MongoDB for nutritional & bacterial data storage
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
+<br/>
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryarajeev/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rajeevietluckn1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevmaurya511@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCKuGT7W2E3-JrIFpX9a8fiQ)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1m8arJ1OCqabxOqUCkotDexXrIO_Sx96a/edit)
+[![Profile Views](https://komarev.com/ghpvc/?username=mauryarajeev&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/mauryarajeev)
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<br/>
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
 
-### Real-Time & Comms
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh0N280ZHNqajN5MXJ1Y3Q3cWZ2YmU4NWVpYThybzFvY2d2YnBrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### `$ whoami`
+
+```yaml
+name          : Rajeev Kumar Maurya
+title         : Full-Stack Software Engineer
+location      : Gurgaon, India 🇮🇳
+company       : ISSC Pvt Ltd
+product       : GetCompanion (Emotional Support Platform)
+education     : B.Tech Chemical Engineering
+                IET Lucknow | CGPA 8.0/10
+experience    : 3+ years (2022 → Present)
+focus_areas   :
+  - Web & Mobile Application Architecture
+  - Real-Time Communication Systems
+  - API Design & Backend Engineering
+  - ETL Pipelines & Data Engineering
+  - Internal Tooling & HR Systems
+superpower    : "Chemical Eng → Full-Stack Dev 🧪💻"
+open_to       : Collaborations, OSS, Opportunities
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Technical Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Engineering
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🖥️ Backend Engineering
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Data & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Skill Proficiency Matrix
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    SKILL PROFICIENCY OVERVIEW                           ║
+╠══════════════════════╦══════════════════════════════════════════════════╣
+║  React / React Native ║  ████████████████████████████████████████  95%  ║
+║  JavaScript / TS     ║  ████████████████████████████████████░░░░  88%  ║
+║  Node.js / Express   ║  ████████████████████████████████████░░░░  88%  ║
+║  Redux Toolkit       ║  ███████████████████████████████████░░░░░  85%  ║
+║  Python              ║  ████████████████████████████████░░░░░░░░  80%  ║
+║  Django / Flask      ║  ██████████████████████████████░░░░░░░░░░  75%  ║
+║  MongoDB             ║  ████████████████████████████████░░░░░░░░  80%  ║
+║  Socket.IO / RT Comms║  ████████████████████████████████████░░░░  88%  ║
+║  SQL Databases       ║  ████████████████████████████░░░░░░░░░░░░  70%  ║
+║  AWS S3 / Cloud      ║  ████████████████████████░░░░░░░░░░░░░░░░  60%  ║
+╚══════════════════════╩══════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏢 Career Timeline
+
+```
+ 2022                    2023                         2024 → NOW
+  │                       │                               │
+  ▼                       ▼                               ▼
+┌──────────────┐   ┌──────────────────┐   ┌──────────────────────────────┐
+│  Augenblick  │   │    Calligo       │   │        ISSC Pvt Ltd          │
+│  Consulting  │──▶│  Technologies   │──▶│   (GetCompanion Platform)    │
+│              │   │                  │   │                              │
+│  Internship  │   │  Full-Stack Dev  │   │  Founding Full-Stack Eng.    │
+│  Mumbai      │   │  Bengaluru       │   │  Gurgaon (Web+iOS+Android)   │
+│  React+Node  │   │  AI/ML UIs       │   │  Architecture • APIs • UX    │
+└──────────────┘   └──────────────────┘   └──────────────────────────────┘
+         │
+         │ ALSO  ┌──────────────┐
+         └──────▶│  Mytravaly   │ (Parallel Frontend Role)
+                 │  React+Redux │ Bengaluru → 2x UI Performance
+                 └──────────────┘
+```
+
+---
+
+## 🚀 What I'm Building — GetCompanion
+
+> **Founding Full-Stack Engineer** building a production-grade emotional support platform from zero.
+
+<table>
+<tr><td width="50%">
+
+**📱 Mobile (React Native)**
+- Cross-platform Android & iOS apps
+- Native call notifications (foreground/background)
+- Real-time chat with Socket.IO
+- Agora SDK for audio/video calling
+- Optimized UI/UX for mobile performance
+
+**💳 Payments & Wallet**
+- Cashfree payment gateway integration
+- Wallet system with discount logic
+- Transaction history & billing management
+
+</td><td width="50%">
+
+**⚙️ Backend & APIs**
+- Node.js + Express REST APIs
+- MongoDB with optimized schemas
+- OTP-based authentication system
+- Role-based access (User / Provider / Admin)
+- Socket.IO presence & call tracking
+
+**📊 Admin & Operations**
+- Admin dashboard for user management
+- Provider management & verification
+- Real-time transaction monitoring
+- Booking & scheduling systems
+
+</td></tr>
+</table>
+
+---
+
+## 📐 Engineering Philosophy
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🤝 GetCompanion
-> Emotional support & companionship platform — Chat, Audio/Video Calls, In-person visits
-
-**Stack:** React, React Native, Node.js, MongoDB, Socket.IO, Agora SDK, Cashfree
-
-- End-to-end ownership: architecture, APIs, auth, deployment
-- Real-time communication with WebRTC & Socket.IO
-- Payment wallet with discount systems
+**🏗️**
+### Architecture First
+Design systems before writing code. Scalability and maintainability from day one.
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-### 📋 ATS — Applicant Tracking System
-> Full-featured recruitment platform with candidate pipelines & role-based access
-
-**Stack:** Django, Python, SQL, React
-
-- Candidate management & recruitment workflows
-- Review systems & role-based access control
-- Built for internal HR operations at scale
+**⚡**
+### Performance Driven
+Every millisecond counts. Bundle size, lazy loading, DB query optimization.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### ✅ [Task Minder](https://github.com/mauryarajeev)
-> Personal productivity app with advanced task management
-
-**Stack:** React, Node.js, MongoDB
-
-- User registration, login, task creation & tracking
-- Advanced filtering and categorization
+**🔒**
+### Security Conscious
+Auth, validation, and data sanitization baked in — never bolted on.
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🏥 [Hacdoc Master](https://github.com/mauryarajeev)
-> Hospital resource tracking dashboard
-
-**Stack:** React, Node.js, MongoDB
-
-- Real-time Blood, Beds & Doctor availability
-- Hospital resource management for emergencies
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 [A2Z Car Club](https://github.com/mauryarajeev)
-> Used car marketplace with membership system
-
-**Stack:** React, Node.js, MongoDB
-
-- Buy, sell & service used cars
-- Membership tier management
-
-</td>
-<td width="50%">
-
-### 🍽️ [Engineer Daba](https://github.com/mauryarajeev)
-> Restaurant app with offers and order management
-
-**Stack:** React, Node.js, MongoDB
-
-- Full restaurant ordering experience
-- Dynamic menu with tempting offers
+**🧪**
+### Test Coverage
+Functional, integration & unit tests. Code that ships with confidence.
 
 </td>
 </tr>
@@ -238,87 +213,96 @@ const rajeev = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauryarajeev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryarajeev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=mauryarajeev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8892b0&ring_color=00d9ff"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryarajeev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8892b0&langs_count=10"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryarajeev&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<br/>
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=mauryarajeev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=8892b0&currStreakNum=ffffff&sideNums=ffffff&dates=8892b0"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryarajeev&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=mauryarajeev&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=00d9ff"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| 🏅 Achievement | 🎯 Rank | 👥 Competition |
-|---|---|---|
-| 🥇 HackJaipur Hackathon | **Top 50 Globally** | 400+ Teams |
-| 🥈 College Tech-Fest | **Top 500 Globally** | 4,800+ Participants |
-| 🎓 State Engineering Exam | **Rank 5254** | 250,000+ Students |
+[![trophy](https://github-profile-trophy.vercel.app/?username=mauryarajeev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🎖️ Achievements & Recognition
+
+<div align="center">
+
+| 🏅 | Achievement | Rank | Scale |
+|:---:|:---|:---:|:---:|
+| 🥇 | **HackJaipur Hackathon** | **Top 50 Globally** | 400+ Teams |
+| 🥈 | **College Tech-Fest** | **Top 500 Globally** | 4,800+ Participants |
+| 🎓 | **State Engineering Entrance Exam** | **Rank 5,254** | 250,000+ Students |
+
+</div>
+
+---
+
+## 📚 Learning Roadmap 2025
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│  🎯 2025 Learning Roadmap                   │
-│                                             │
-│  ✅ React Native (Advanced)  ████████░░ 80% │
-│  🔄 AWS Cloud Architecture   ████░░░░░░ 40% │
-│  📦 Distributed Systems      ███░░░░░░░ 30% │
-│  🐳 Docker & Kubernetes      ██░░░░░░░░ 20% │
-└─────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                    🎯 MASTERY IN PROGRESS                       │
+├──────────────────────────┬──────────────────────────────────────┤
+│  AWS Cloud Architecture  │  ▓▓▓▓░░░░░░░░  Actively Studying    │
+│  Distributed Systems     │  ▓▓▓░░░░░░░░░  Deep Dive Phase      │
+│  Docker & Kubernetes     │  ▓▓░░░░░░░░░░  Foundations          │
+│  System Design           │  ▓▓▓▓▓░░░░░░░ Building Concepts     │
+│  GraphQL                 │  ▓▓▓░░░░░░░░░  Exploring            │
+│  Redis / Caching         │  ▓▓░░░░░░░░░░  Next Up              │
+└──────────────────────────┴──────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 💡 What I'm Building @ GetCompanion
-
-> Currently serving as **Founding Full-Stack Engineer**, building a platform that connects users with verified emotional support providers through:
-
-- 📱 **React Native** mobile apps (Android + iOS)
-- 💬 Real-time **chat & messaging** (Socket.IO)
-- 📞 **Audio/Video calling** (Agora SDK + WebRTC)
-- 💳 **Payment systems** with wallet & discount logic (Cashfree)
-- 🔒 Secure **OTP-based authentication**
-- 📊 **Admin dashboards** for user & transaction management
-
----
-
-## 🤝 Let's Connect!
+## 💬 Let's Build Something
 
 <div align="center">
 
-I'm always open to **collaborating on interesting projects**, **discussing tech**, or just having a good conversation.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryarajeev/)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevmaurya511@gmail.com)
-[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rajeevietluckn1)
+> *"I don't just write code — I architect experiences, engineer reliability, and ship products that users love."*
 
 <br/>
 
-```
-"Code is not just instructions for machines — it's how we build the future." 🚀
-```
+**💼 Open to:** Senior Full-Stack Roles • Founding Engineer Opportunities • Consulting
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&fontSize=20" />
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Hire_Me_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryarajeev/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevmaurya511@gmail.com)
+[![Twitter](https://img.shields.io/badge/Let's_Talk_Tech-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rajeevietluckn1)
+
+<br/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=100&section=footer" />
 
 </div>
