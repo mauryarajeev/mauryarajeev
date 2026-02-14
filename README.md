@@ -497,6 +497,7 @@ open_to      : Roles · OSS · Collabs · AI Projects
 |:---:|:---|:---:|:---:|
 | 🥇 | **HackJaipur Hackathon** | **Top 50 Globally** | 400+ Teams |
 | 🥈 | **College Tech-Fest** | **Top 500 Globally** | 4,800+ Participants |
+| 🎓 | **JEE Main** | **Rank 60K** | 16L+ Students |
 | 🎓 | **State Engineering Entrance Exam** | **Rank 5,254** | 250,000+ Students |
 
 </div>
