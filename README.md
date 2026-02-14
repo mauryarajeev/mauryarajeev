@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a192f,80:020c1b,100:0d1117&height=230&section=header&text=RAJEEV%20KUMAR%20MAURYA&fontSize=46&fontColor=00d9ff&fontAlignY=52&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20Builder%20%E2%80%A2%20AI%20Era%20Explorer&descSize=15&descAlignY=73&descColor=64ffda&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a192f,80:020c1b,100:0d1117&height=230&section=header&text=RAJEEV%20KUMAR%20MAURYA&fontSize=46&fontColor=00d9ff&fontAlignY=52&desc=Full-Stack%20Engineer%20%E2%80%A2%20App%20Builder%20%E2%80%A2%20AI%20Era%20Explorer&descSize=15&descAlignY=73&descColor=64ffda&animation=fadeIn" />
 
 <br/>
 
@@ -38,7 +38,7 @@ company    : ISSC Pvt Ltd
 product    : GetCompanion — Emotional Support Platform
 education  : B.Tech Chemical Engineering
              IET Lucknow  |  CGPA 8.0 / 10
-experience : 3+ years  (2022 → Present)
+experience : 4+ years  (2022 → Present)
 
 strengths  :
   - Web & Mobile App Architecture
