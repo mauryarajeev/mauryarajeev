@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=780&lines=⚛️+React+%7C+React+Native+%7C+TypeScript+%7C+Next.js;🖥️+Node.js+%7C+Express+%7C+Django+%7C+Flask+%7C+FastAPI;☁️+AWS+EC2+%7C+S3+%7C+Lambda+%7C+CloudFront+%7C+RDS;🗄️+MongoDB+%7C+PostgreSQL+%7C+Redis+%7C+Firebase;🤖+OpenAI+API+%7C+LangChain+%7C+LLMs+%7C+AI+Agents;🚀+Founding+Full-Stack+Engineer+%40+GetCompanion;🔥+3%2B+Years+%7C+Building+Products+That+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=780&lines=⚛️+React+%7C+React+Native+%7C+TypeScript+%7C+Next.js;🖥️+Node.js+%7C+Express+%7C+Django+%7C+Flask+%7C+FastAPI;☁️+AWS+EC2+%7C+S3+%7C+Lambda+%7C+CloudFront+%7C+RDS;🗄️+MongoDB+%7C+PostgreSQL+%7C+Redis+%7C+Firebase;🤖+OpenAI+API+%7C+LangChain+%7C+LLMs+%7C+AI+Agents;🚀+Founding+Full-Stack+Engineer+%40+GetCompanion;🔥+4%2B+Years+%7C+Building+Products+That+Scale)](https://git.io/typing-svg)
 
 <br/>
 
